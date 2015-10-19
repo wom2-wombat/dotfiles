@@ -1,0 +1,6 @@
+#
+# Vim
+#
+# Plugins installed by neobundle
+vim/bundle/*
+!vim/bundle/neobundle.vim
