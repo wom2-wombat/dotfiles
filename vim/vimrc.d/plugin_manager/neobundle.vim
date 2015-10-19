@@ -36,6 +36,9 @@ NeoBundle 'Shougo/vimproc.vim', {
 NeoBundle 'Shougo/unite.vim'
 NeoBundle 'tsukkee/unite-help'
 
+" User Interface
+NeoBundle 'tpope/vim-commentary'
+
 call neobundle#end()
 
 " Required:
