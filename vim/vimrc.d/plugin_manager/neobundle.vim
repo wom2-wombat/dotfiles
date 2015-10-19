@@ -32,6 +32,9 @@ NeoBundle 'Shougo/vimproc.vim', {
 \    },
 \ }
 
+" User Interface
+NeoBundle 'Shougo/unite.vim'
+
 call neobundle#end()
 
 " Required:
