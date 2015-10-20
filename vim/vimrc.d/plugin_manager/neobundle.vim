@@ -39,6 +39,9 @@ NeoBundle 'tsukkee/unite-help'
 " Comment
 NeoBundle 'tpope/vim-commentary'
 
+" Run
+NeoBundle 'thinca/vim-quickrun'
+
 call neobundle#end()
 
 " Required:
