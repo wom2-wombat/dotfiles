@@ -5,3 +5,4 @@ brew install git
 brew install zsh
 brew install vim
 brew install tmux
+brew install tree
