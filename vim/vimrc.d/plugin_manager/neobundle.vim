@@ -46,6 +46,9 @@ NeoBundle 'thinca/vim-quickrun'
 " Colorscheme 
 NeoBundle 'tomasr/molokai'
 
+" Filer 
+NeoBundle 'Shougo/vimfiler.vim'
+
 call neobundle#end()
 
 " Required:
