@@ -43,6 +43,9 @@ NeoBundle 'tpope/vim-commentary'
 " Run
 NeoBundle 'thinca/vim-quickrun'
 
+" Colorscheme 
+NeoBundle 'tomasr/molokai'
+
 call neobundle#end()
 
 " Required:
