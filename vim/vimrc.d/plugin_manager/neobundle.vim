@@ -59,6 +59,9 @@ NeoBundle 'haya14busa/incsearch-easymotion.vim'
 " Mark 
 NeoBundle 'tacroe/unite-mark'
 
+" Text object 
+NeoBundle 'tpope/vim-surround'
+
 call neobundle#end()
 
 " Required:
