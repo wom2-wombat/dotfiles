@@ -4,3 +4,6 @@
 # Plugins installed by neobundle
 vim/bundle/*
 !vim/bundle/neobundle.vim
+
+# Swap files
+*.swp
