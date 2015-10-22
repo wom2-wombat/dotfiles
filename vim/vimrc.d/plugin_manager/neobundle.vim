@@ -49,6 +49,9 @@ NeoBundle 'tomasr/molokai'
 " Filer 
 NeoBundle 'Shougo/vimfiler.vim'
 
+" Motion 
+NeoBundle 'easymotion/vim-easymotion'
+
 call neobundle#end()
 
 " Required:
