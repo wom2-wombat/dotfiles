@@ -56,6 +56,9 @@ NeoBundle 'easymotion/vim-easymotion'
 NeoBundle 'haya14busa/incsearch.vim'
 NeoBundle 'haya14busa/incsearch-easymotion.vim'
 
+" Mark 
+NeoBundle 'tacroe/unite-mark'
+
 call neobundle#end()
 
 " Required:
