@@ -1,6 +1,4 @@
-" Use advance /,? search
-map /  <Plug>(incsearch-forward)
-map ?  <Plug>(incsearch-backward)
+" Use search cursor doesn't move
 map g/ <Plug>(incsearch-stay)
 
 " Use automatic nohlsearch
@@ -16,4 +14,3 @@ map g# <Plug>(incsearch-nohl-g#)
 " Use smartcase
 set ignorecase
 set smartcase
-

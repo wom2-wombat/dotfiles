@@ -54,6 +54,7 @@ NeoBundle 'easymotion/vim-easymotion'
 
 " Search 
 NeoBundle 'haya14busa/incsearch.vim'
+NeoBundle 'haya14busa/incsearch-easymotion.vim'
 
 call neobundle#end()
 
