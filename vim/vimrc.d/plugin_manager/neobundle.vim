@@ -52,6 +52,9 @@ NeoBundle 'Shougo/vimfiler.vim'
 " Motion 
 NeoBundle 'easymotion/vim-easymotion'
 
+" Search 
+NeoBundle 'haya14busa/incsearch.vim'
+
 call neobundle#end()
 
 " Required:
