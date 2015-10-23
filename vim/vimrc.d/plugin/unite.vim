@@ -23,3 +23,6 @@ nnoremap <silent> <space>uj :<C-u>Unite jump<CR>
 
 " Grep
 nnoremap <silent> <space>ug :<C-u>Unite grep<CR>
+
+" Register
+nnoremap <silent> <space>ur :<C-u>Unite register<CR>
