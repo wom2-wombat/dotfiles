@@ -9,3 +9,4 @@ brew install tmux
 brew install tree
 brew install peco
 brew install ag
+brew install python
