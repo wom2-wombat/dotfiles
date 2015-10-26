@@ -10,3 +10,4 @@ brew install tree
 brew install peco
 brew install ag
 brew install python
+brew install wget
