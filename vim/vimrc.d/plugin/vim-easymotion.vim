@@ -11,4 +11,4 @@ map t <Plug>(easymotion-bd-tl)
 " Bi-directional find motion
 " Jump to anywhere you want with minimal keystrokes, with just two key binding
 " `s{char}{char}{label}`
-" nmap s <Plug>(easymotion-s2)
+nmap s <Plug>(easymotion-s2)
