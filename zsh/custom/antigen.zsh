@@ -9,5 +9,8 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 # UI
 antigen bundle zsh-users/zaw
 
+# Theme
+antigen theme bhilburn/powerlevel9k powerlevel9k
+
 # Tell antigen that you're done.
 antigen apply
