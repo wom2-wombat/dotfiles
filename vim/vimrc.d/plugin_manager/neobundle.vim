@@ -62,6 +62,9 @@ NeoBundle 'tacroe/unite-mark'
 " Text object 
 NeoBundle 'tpope/vim-surround'
 
+" Git
+NeoBundle 'tpope/vim-fugitive'
+
 call neobundle#end()
 
 " Required:
