@@ -12,4 +12,4 @@ brew install ag
 brew install python
 brew install wget
 brew install fontconfig
-
+brew install ctags
