@@ -1,10 +1,17 @@
+# Use double-Lined Prompt
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-
 POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX="↱"
 POWERLEVEL9K_MULTILINE_SECOND_PROMPT_PREFIX="↳ "
 
-#POWERLEVEL9K_MODE='awesome-fontconfig'
-POWERLEVEL9K_MODE='awesome-patched'
+POWERLEVEL9K_MODE='awesome-fontconfig'
 
-#DEFAULT_USER='nbchk'
 DEFAULT_USER='nbchk'
+
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir vcs)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(rbenv status)
+
+# enable the vcs segment in general
+POWERLEVEL9K_SHOW_CHANGESET=true
+
+# just show the 6 first characters of changeset
+POWERLEVEL9K_CHANGESET_HASH_LENGTH=6
