@@ -8,3 +8,4 @@ brew cask install karabiner
 brew cask install alfred
 brew cask install vagrant
 brew cask install virtualbox
+brew cask install chefdk
